@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Using --no-ff instead of Fast forward.
 Using stash to save workspot in order to fix the bug right now.
+/usr/bin/env
